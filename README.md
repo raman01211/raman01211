@@ -1,7 +1,6 @@
 <h1 align="center">Hello Everyone 👋, I'm Raman Srivastava</h1>
-<h3 align="center">A passionate Data Engineer developer from India, Currently in United States doing Masters In Computer Software Engineering. Seeking Full-Time Roles</h3>
+<h3 align="center">A passionate Data Engineer developer from India, Currently in United States doing Masters In Computer Software Engineering.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raman01211&label=Profile%20views&color=0e75b6&style=flat" alt="raman01211" /> </p>
 
@@ -17,9 +16,9 @@
 
 - 📫 How to reach me **raghav01211@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18OvsLsvhBL_W7gTP6ri_vws6UGTWuUNO/view?usp=drive_link](https://drive.google.com/file/d/18OvsLsvhBL_W7gTP6ri_vws6UGTWuUNO/view?usp=drive_link)
+- 📄 Know about my experiences [https://tinyurl.com/Raman-Srivastava-Resume](https://tinyurl.com/Raman-Srivastava-Resume)
 
-- ⚡ Cover Letter **https://drive.google.com/file/d/1oLSfjj653UXeifj9kLys0FEMnrIhLNrs/view?usp=drive_link**
+- ⚡ Cover Letter **https://tinyurl.com/Raman-Srivastava-Cover-Letter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
