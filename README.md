@@ -1,4 +1,4 @@
-<h1 align="center">Hello Everyone 👋, I'm Raman Srivastava</h1>
+<h1 align="center">Hello Everyone 👋, I'm Ramana Singh</h1>
 <h3 align="center">A passionate Data Engineer developer from India, Currently in United States doing Masters In Computer Software Engineering.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
