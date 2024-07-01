@@ -10,13 +10,13 @@
 
 - 🤝 I’m looking for help with **Full-Time Job over OPT.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/raman01211/](https://github.com/raman01211/)
+- 👨‍💻 All of my projects are available at ["ADD GITHUB")
 
 - 💬 Ask me about **ETL, Python, JavaScript, HTML, CSS, Spark, Scala, PL/SQL, PySpark, Pandas, React , SSIS**
 
 - 📫 How to reach me **raghav01211@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/Raman-Srivastava-Resume](https://tinyurl.com/Raman-Srivastava-Resume)
+- 📄 Know about my experiences ["Add Resume")
 
 - ⚡ Cover Letter **https://tinyurl.com/Raman-Srivastava-Cover-Letter**
 
