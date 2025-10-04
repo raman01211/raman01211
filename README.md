@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **ETL, Python, JavaScript, HTML, CSS, Spark, Scala, PL/SQL, PySpark, Pandas, React , SSIS**
 
-- 📫 How to reach me **raghav01211@gmail.com**
+- 📫 How to reach me **ra@gmail.com**
 
 - 📄 Know about my experiences ["Add Resume")
 
