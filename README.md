@@ -1,60 +1,70 @@
 <h1 align="center">Hi 👋, I'm Raman Srivastava</h1>
-<h3 align="center">Cloud/SRE & DevOps Engineer | Software Engineering (USA)</h3>
+<h3 align="center">Senior Cloud/SRE & DevOps Engineer | AIOps & Infrastructure Architect</h3>
 
-<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-Expert-blue?style=flat-square&logo=microsoft-azure" alt="Azure">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=flat-square&logo=amazon-aws" alt="AWS">
+  <img src="https://img.shields.io/badge/Kubernetes-Certified-blue?style=flat-square&logo=kubernetes" alt="K8s">
+  <img src="https://img.shields.io/badge/Security-DevSecOps-red?style=flat-square" alt="DevSecOps">
+</p>
 
----
-
-### 🚀 About Me
-
-* 🎓 Master's in Computer Software Engineering (United States)
-* 💡 Focused on **Cloud Infrastructure, DevOps, and Scalable Systems**
-* 🔭 Currently building **cloud-native applications & automation workflows**
-* 🌱 Actively learning: **Azure, Kubernetes, CI/CD, System Design**
-* 🤝 Seeking **Full-Time Opportunities (OPT - Cloud / DevOps / Software roles)**
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ---
 
-### 🛠️ Tech Stack
+### 🌟 Executive Summary
 
-**Programming**
+Senior Cloud/SRE Engineer with **5+ years of experience** architecting enterprise AI services and cloud platforms. I specialize in sustaining **99.99% uptime**, implementing **GitOps workflows**, and optimizing cloud spend—recently saving **$2M annually** through intelligent FinOps.
 
-* Python, JavaScript, Scala
-
-**Cloud & DevOps**
-
-* Microsoft Azure, AWS , GCP 
-* Docker, Kubernetes
-* Jenkins, CI/CD Pipelines , Github Actions
-
-**Databases**
-
-* PostgreSQL, MySQL, SQL Server
-* MongoDB, Cassandra
-
-**Data & Processing Tools**
-
-* Apache Spark, Kafka
-* Pandas, SSIS
-
-**Frontend (Working Knowledge)**
-
-* React, HTML, CSS
+*   🎓 **Master’s in Computer Software Engineering** (George Mason University, USA)
+*   🛡️ **Security Focused:** Expert in Zero Trust (mTLS), IAM Governance, and DevSecOps.
+*   🤖 **AI/LLM Ops:** Experience managing Enterprise AI platforms (OpenAI, Gemini, Claude).
+*   🚀 **Impact:** Reduced MTTR by 40% and accelerated deployment speeds by 50% via IaC.
 
 ---
 
-### 📫 Contact Me
-
-* 📧 Email: [ramans01211@gmail.com](mailto:ra@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/raman-srivastava-24ab3741
-* 💻 HackerRank: https://www.hackerrank.com/raghav01211
+### 📜 Certifications
+*   **Microsoft Certified:** DevOps Engineer Expert (AZ-400)
+*   **Microsoft Certified:** Azure Developer Associate (AZ-204)
+*   **AWS Certified:** Solutions Architect – Associate
 
 ---
 
-### ⚡ What I Bring
+### 🛠️ Tech Stack & Ecosystem
 
-* Strong foundation in **cloud infrastructure and automation**
-* Hands-on experience with **containerization and orchestration**
-* Ability to build and manage **scalable, production-ready systems**
-* Focus on **performance, reliability, and DevOps best practices**
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud Platforms** | Azure (AKS, APIM, Synapse), AWS (EKS, Redshift, Glue), GCP |
+| **Orchestration** | Kubernetes, Docker, Helm, ArgoCD, Istio Service Mesh |
+| **IaC & Automation** | Terraform, Ansible, GitHub Actions, Jenkins, Azure DevOps |
+| **AI & Data** | Azure OpenAI, LangChain, Apache Kafka, Databricks, Airflow |
+| **Observability** | Dynatrace, Prometheus, Grafana, ELK Stack, OpenTelemetry |
+| **Security** | Checkmarx, SonarQube, Prisma Cloud, OAuth2/SAML, Okta |
+| **Languages** | Python, Bash, SQL, Go (Working Knowledge), JavaScript |
 
+---
+
+### 🚀 Key Professional Highlights
+
+*   **Platform Engineering:** Architected AKS platforms using Terraform & ArgoCD, eliminating configuration drift and cutting cluster provisioning from hours to **15 minutes**.
+*   **FinOps & Scaling:** Optimized node pools and KEDA autoscaling, reducing compute spend by **18% ($2M/year)**.
+*   **DevSecOps:** Embedded SAST/DAST pipelines (Veracode/Checkmarx) into CI/CD, reducing production vulnerabilities by **40%**.
+*   **Data Reliability:** Engineered automated data quality checks for 100+ TB data lakes, preventing **$2M+ in losses** from bad data payouts.
+
+
+---
+
+### 📫 Contact & Socials
+
+*   💼 **LinkedIn:** [linkedin.com/in/raman-srivastava-24ab3741](https://linkedin.com/in/raman-srivastava-24ab3741)
+*   📧 **Email:** [ramans01211@gmail.com](mailto:ramans01211@gmail.com)
+*   📍 **Location:** USA (Open to Remote/Relocation)
+
+<p align="left">
+  <a href="https://linkedin.com/in/raman-srivastava-24ab3741">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+*“Focusing on performance, reliability, and the future of AI-driven infrastructure.”*
