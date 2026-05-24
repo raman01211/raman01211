@@ -23,9 +23,9 @@
 
 **Cloud & DevOps**
 
-* Microsoft Azure, AWS
+* Microsoft Azure, AWS , GCP 
 * Docker, Kubernetes
-* Jenkins, CI/CD Pipelines
+* Jenkins, CI/CD Pipelines , Github Actions
 
 **Databases**
 
@@ -58,19 +58,3 @@
 * Ability to build and manage **scalable, production-ready systems**
 * Focus on **performance, reliability, and DevOps best practices**
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raman01211&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raman01211&theme=tokyonight" alt="streak"/>
-</p>
-
----
-
-### 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=raman01211&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
-</p>
