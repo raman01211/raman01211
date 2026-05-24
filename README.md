@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raman Srivastava</h1>
-<h3 align="center">Cloud & DevOps Engineer | Software Engineering Graduate Student (USA)</h3>
+<h3 align="center">Cloud/SRE & DevOps Engineer | Software Engineering (USA)</h3>
 
 <img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
