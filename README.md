@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-Expert-blue?style=flat-square&logo=microsoft-azure" alt="Azure">
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=flat-square&logo=amazon-aws" alt="AWS">
-  <img src="https://img.shields.io/badge/Kubernetes-Certified-blue?style=flat-square&logo=kubernetes" alt="K8s">
   <img src="https://img.shields.io/badge/Security-DevSecOps-red?style=flat-square" alt="DevSecOps">
 </p>
 
