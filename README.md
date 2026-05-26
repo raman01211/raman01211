@@ -10,6 +10,10 @@
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
+<p align="center">
+  🌐 <strong>Portfolio:</strong> <a href="https://ramansrivastava.com">ramansrivastava.com</a>
+</p>
+
 ---
 
 ### 🌟 Executive Summary
@@ -41,6 +45,18 @@ Senior Cloud/SRE Engineer with **5+ years of experience** architecting enterpris
 | **Observability** | Dynatrace, Prometheus, Grafana, ELK Stack, OpenTelemetry |
 | **Security** | Checkmarx, SonarQube, Prisma Cloud, OAuth2/SAML, Okta |
 | **Languages** | Python, Bash, SQL, Go (Working Knowledge), JavaScript |
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **AKS Enterprise Platform** | Enterprise-grade AKS with Terraform, ArgoCD, and policy-driven governance | [GitHub](https://github.com/raman01211/aks-enterprise-platform) |
+| **Chaos Engineering for Kubernetes** | Chaos mesh experiments and resilience testing for cloud-native workloads | [GitHub](https://github.com/raman01211/chaos-engineering-kubernetes) |
+| **Progressive Delivery Pipeline** | Canary releases, feature flags, and automated rollback strategies | [GitHub](https://github.com/raman01211/progressive-delivery-pipeline) |
+| **SRE Observability Platform** | OpenTelemetry-based observability with Prometheus, Grafana, and Dynatrace | [GitHub](https://github.com/raman01211/sre-observability-platform) |
+| **RemediAI** | AI-driven remediation and autonomous infrastructure healing | [GitHub](https://github.com/raman01211/remediai) |
 
 ---
 
